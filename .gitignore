@@ -3,11 +3,9 @@
 /.**
 
 ###### not ignore list ######
-!/.bin/
-!/.bin/*
 !/Brewfile
-!/.config/
-!/.config/**
+!/dot_config/
+!/dot_config/**
 !.gitconfig_shared
 !starship.toml
 !/README.md
