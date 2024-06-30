@@ -9,6 +9,7 @@
 !.gitconfig_shared
 !starship.toml
 !/README.md
+!.chezmoiignore
 
 ###### ignore list ######
 **/.DS_Store
