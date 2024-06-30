@@ -10,6 +10,12 @@ set -x PATH $PATH $HOME/.nodebrew/current/bin
 # mac
 set -x PATH $PATH /usr/local/sbin
 
+# Editor
+set -x EDITOR "code -w"
+
+# shell
+set -x PATH $PATH /opt/homebrew/bin
+
 # direnv
 # eval (direnv hook fish)
 
