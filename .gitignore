@@ -1,0 +1,19 @@
+###### all ignore ######
+/*
+/.**
+
+###### not ignore list ######
+!/.bin/
+!/.bin/*
+!/Brewfile
+!/.config/
+!/.config/**
+!.gitconfig_shared
+!starship.toml
+!/README.md
+
+###### ignore list ######
+**/.DS_Store
+
+###### final not ignore list ######
+!.gitignore
