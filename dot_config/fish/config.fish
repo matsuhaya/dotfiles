@@ -6,7 +6,7 @@ source ~/.config/fish/functions.fish
 starship init fish | source
 
 # gh command
-eval (gh completion -s fish| source)
+# eval (gh completion -s fish| source)
 
 # alias
 alias cdd 'cd ~/Desktop'
